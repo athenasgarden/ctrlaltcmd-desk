@@ -1,16 +1,19 @@
-# CTRL+ALT+CMD desk
+# CTRL+ALT+CMD
 
-The root brand is [ctrlaltcmd.com](https://ctrlaltcmd.com). This repo is the meat: a field manual for people who can build and still have to sell, ship, and keep the machine from eating the week.
+Tools and field notes for people who ship work and still have to get hired, get paid, or teach the kids.
 
-Products live on their own hosts. This repo does not replace Athena ATS, Aether, or the radio.
+Public desk for [ctrlaltcmd.com](https://ctrlaltcmd.com). Apps live on their own hosts.
 
-## Read in this order
+| You are… | Go |
+|---|---|
+| Applying online and hearing nothing | [Athena ATS](https://athena.ctrlaltcmd.com) |
+| Able to build, stuck on selling | [Aether](https://aether.ctrlaltcmd.com) |
+| Homeschooling with too much curriculum | [Homeschool IRL](https://www.teacherspayteachers.com/store/homeschool-irl) |
+| Wanting a scoped AI build | [Athena Studios](https://athenastudios.ctrlaltcmd.com) |
 
-1. [DESK.md](DESK.md) — what exists and when to open it
-2. [AFTERNOON.md](AFTERNOON.md) — one 3-hour block you can actually run
-3. [SHIP_RULES.md](SHIP_RULES.md) — what gets published vs what stays a draft
-4. [CATALOG.md](CATALOG.md) — exact URLs
+- [START.md](START.md) — who this is for
+- [TOOLS.md](TOOLS.md) — what each product does
+- [AFTERNOON.md](AFTERNOON.md) — a 3-hour block you run on your own work
+- [CATALOG.md](CATALOG.md) — public URLs
 
-HTML hub: [index.html](index.html).
-
-Athena ATS: 1 free rewrite, then Founding Beta $8/mo or $59/yr. No interview guarantee.
+Athena ATS: first rewrite free, then $8/mo or $59/yr. No interview guarantee.
