@@ -3,33 +3,26 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>CTRL+ALT+CMD</title>
-  <meta name="description" content="Field notes for creators and operators: interrupt the runaway process, filter slop, finish one experiment.">
+  <title>CTRL+ALT+CMD field kit</title>
   <style>
-    :root { --ink:#101014; --muted:#5c5854; --paper:#f3f1ec; --rule:#ddd8ce; --accent:#4f46e5; }
-    body { margin:0; font:18px/1.55 Georgia, serif; color:var(--ink); background:var(--paper); }
+    body { margin:0; font:18px/1.55 Georgia, serif; background:#f3f1ec; color:#101014; }
     main { max-width:40rem; margin:0 auto; padding:2.2rem 1.25rem 4rem; }
-    h1 { font-size:2rem; line-height:1.2; }
-    h2 { font-size:1.2rem; margin-top:2rem; }
-    a { color:var(--accent); }
-    .lede { color:var(--muted); }
-    footer { color:var(--muted); font-size:0.9rem; margin-top:3rem; }
+    a { color:#4f46e5; }
+    pre { background:#ece8e0; padding:0.8rem 1rem; overflow:auto; font-size:0.9rem; }
+    .lede { color:#5c5854; }
+    footer { color:#5c5854; font-size:0.9rem; margin-top:3rem; }
   </style>
 </head>
 <body>
 <main>
   <p class="lede">CTRL+ALT+CMD</p>
-  <h1>Stop the process. Then make one thing.</h1>
-  <p>Editorial notes for creators and operators. Analysis, experiments, books. This domain is the text. Use a page, do not collect it.</p>
-  <h2>Interrupt</h2>
-  <p>When the week is tools and chats and nothing shipped. Twenty-five minutes. One object. One action. Close the rest.</p>
-  <p><a href="INTERRUPT.md">Interrupt the runaway process →</a></p>
-  <h2>Signal</h2>
-  <p>A filter for model output before you build on it. If a stranger cannot act, it was atmosphere.</p>
-  <p><a href="SIGNAL.md">Signal vs slop →</a></p>
-  <h2>Experiment</h2>
-  <p>One question. Ninety minutes. Publish or discard. Not a platform.</p>
-  <p><a href="EXPERIMENT.md">One-sitting experiment →</a></p>
+  <h1>Field kit</h1>
+  <p>This is not a directory. Clone the repo. Fill a session. Commit the experiment folder.</p>
+  <pre>git clone https://github.com/athenasgarden/ctrlaltcmd-desk.git
+cd ctrlaltcmd-desk
+cp interrupt/SESSION.md interrupt/$(date +%F).md</pre>
+  <p>Then <a href="interrupt/SESSION.md">interrupt/SESSION.md</a>, <a href="signal/PASS.md">signal/PASS.md</a>, copy <a href="experiment/_template/QUESTION.md">experiment/_template</a>.</p>
+  <p>Worked example: <a href="experiment/2026-09-09-field-kit/QUESTION.md">experiment/2026-09-09-field-kit</a></p>
   <footer>hello@ctrlaltcmd.com</footer>
 </main>
 </body>
