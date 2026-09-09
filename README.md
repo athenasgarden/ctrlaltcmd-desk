@@ -1,19 +1,11 @@
 # CTRL+ALT+CMD
 
-Tools and field notes for people who ship work and still have to get hired, get paid, or teach the kids.
+Field notes you can run without an account.
 
-Public desk for [ctrlaltcmd.com](https://ctrlaltcmd.com). Apps live on their own hosts.
+1. [Tailor one resume to one job in 45 minutes](TAILOR.md)
+2. [Get paid for something you already shipped](GET_PAID.md)
+3. [One week of homeschool without buying more curriculum](https://github.com/athenasgarden/homeschool-irl)
 
-| You are… | Go |
-|---|---|
-| Applying online and hearing nothing | [Athena ATS](https://athena.ctrlaltcmd.com) |
-| Able to build, stuck on selling | [Aether](https://aether.ctrlaltcmd.com) |
-| Homeschooling with too much curriculum | [Homeschool IRL](https://www.teacherspayteachers.com/store/homeschool-irl) |
-| Wanting a scoped AI build | [Athena Studios](https://athenastudios.ctrlaltcmd.com) |
+Hub: [index.html](index.html)
 
-- [START.md](START.md) — who this is for
-- [TOOLS.md](TOOLS.md) — what each product does
-- [AFTERNOON.md](AFTERNOON.md) — a 3-hour block you run on your own work
-- [CATALOG.md](CATALOG.md) — public URLs
-
-Athena ATS: first rewrite free, then $8/mo or $59/yr. No interview guarantee.
+Tools exist (Athena ATS, Aether, Homeschool IRL). They are optional after the page, not the page.
