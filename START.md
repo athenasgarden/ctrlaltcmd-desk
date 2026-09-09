@@ -1,10 +1,9 @@
 # Start here
 
-Two pages you can run today with no login.
+CTRL+ALT+CMD is an editorial and experimental AI brand: analysis, tools, books, and digital experiments for creators and operators.
 
-1. [TAILOR.md](TAILOR.md) — one resume, one job, 45 minutes
-2. [GET_PAID.md](GET_PAID.md) — one object you already made, five asks
+This domain is the notes. Not a catalog of other sites.
 
-Homeschool week (also free): https://github.com/athenasgarden/homeschool-irl
-
-Software is optional and listed at the bottom of each page.
+- [INTERRUPT.md](INTERRUPT.md) — stop the week from becoming more tools
+- [SIGNAL.md](SIGNAL.md) — filter model output before you build on it
+- [EXPERIMENT.md](EXPERIMENT.md) — finish one question before dinner

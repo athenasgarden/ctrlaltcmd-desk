@@ -1,11 +1,9 @@
 # CTRL+ALT+CMD
 
-Field notes you can run without an account.
+Editorial field notes for creators and operators. This repo is the public text of [ctrlaltcmd.com](https://ctrlaltcmd.com).
 
-1. [Tailor one resume to one job in 45 minutes](TAILOR.md)
-2. [Get paid for something you already shipped](GET_PAID.md)
-3. [One week of homeschool without buying more curriculum](https://github.com/athenasgarden/homeschool-irl)
+1. [Interrupt the runaway process](INTERRUPT.md)
+2. [Signal vs slop](SIGNAL.md)
+3. [One-sitting experiment](EXPERIMENT.md)
 
-Hub: [index.html](index.html)
-
-Tools exist (Athena ATS, Aether, Homeschool IRL). They are optional after the page, not the page.
+The notes are the product on this domain. They are meant to be used, not collected.
